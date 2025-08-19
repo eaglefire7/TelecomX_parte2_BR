@@ -67,6 +67,6 @@ O modelo **Random Forest** foi o grande destaque, alcançando uma **Acurácia de
 
 ## ⚙️ Como Executar o Projeto
 
-1.  Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO]`
+1.  Clone este repositório: `git clone (https://github.com/eaglefire7/TelecomX_parte2_BR.git)`
 2.  Instale as bibliotecas necessárias: `pip install pandas scikit-learn imbalanced-learn xgboost matplotlib seaborn`
 3.  Execute o notebook Jupyter `[TelecomX_parte2_BR.ipynb`. Certifique-se de que o ficheiro `dados_tratados.csv` está no mesmo diretório.
